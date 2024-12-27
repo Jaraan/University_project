@@ -37,8 +37,23 @@ The dataset named "University" includes the following six sheets:
 ## Data Visualization
 
 ### Tools Used
-- Microsoft Excel
-- Power BI
+- Microsoft Excel:
+#### Country Analysis 
+![uni-country-xl](https://github.com/user-attachments/assets/abd7b22d-8d05-40af-9829-79ebf8ea7751)
+#### University Analysis
+![uni-uni-xl](https://github.com/user-attachments/assets/799ed9f3-cd32-4a90-a7e1-48f5df4505d2)
+#### Ranking Analysis
+![uni-ranking-xl](https://github.com/user-attachments/assets/c0816319-525c-4c0c-8978-c947028641fa)
+
+- Power BI:
+#### Overview page
+![uni-overview](https://github.com/user-attachments/assets/0b201e47-16d9-4b12-982b-3c2dde16bb68)
+#### Country Analysis 
+![uni-country](https://github.com/user-attachments/assets/3540b846-0ddb-4211-ac7e-2c4f97e7b72a)
+#### University Analysis
+![uni-university](https://github.com/user-attachments/assets/39ff1ffe-2ecb-49cd-90c0-ac0fa0e98264)
+#### Ranking Analysis
+![uni-ranking](https://github.com/user-attachments/assets/b8f51695-f7ef-4f54-b9ce-a66c72c1c6c6)
 
 ### Dashboards
 - **Country Analysis**: Highlighted trends in the number of universities, female and international students, and staff distributions by country.
