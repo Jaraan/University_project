@@ -37,7 +37,7 @@ The dataset named "University" includes the following six sheets:
 ## Data Visualization
 
 ### Tools Used
-- Microsoft Excel:
+### 1. Microsoft Excel:
 #### Country Analysis 
 ![uni-country-xl](https://github.com/user-attachments/assets/abd7b22d-8d05-40af-9829-79ebf8ea7751)
 #### University Analysis
@@ -45,7 +45,7 @@ The dataset named "University" includes the following six sheets:
 #### Ranking Analysis
 ![uni-ranking-xl](https://github.com/user-attachments/assets/c0816319-525c-4c0c-8978-c947028641fa)
 
-- Power BI:
+### 2. Power BI:
 #### Overview page
 ![uni-overview](https://github.com/user-attachments/assets/0b201e47-16d9-4b12-982b-3c2dde16bb68)
 #### Country Analysis 
